@@ -1,0 +1,23 @@
+scrollTop scrollHeight//js
+delete post isnt working properly
+exit() //php
+header(:location) //php
+<li role="presentation"><a href="#about_div" aria-controls="about_div" role="tab" data-toggle="tab">About</a></li>
+$post()
+tablist
+nav tag ->he <nav> tag defines a set of navigation links.
+in jquery function returns false
+inline-block  -> in a line but will  hv required  height and breadth
+mysqli_insert_id //for notification creation
+
+regex//
+--------------------------------------------------------------
+
+htaccess//
+--------------------------------------------------------------
+A web server is a machine which store process and deliver web pages to user based upon their request
+As a request it get URL ,then it transform it to a filename,then send that file
+
+htaccess file is used to hide the main file
+so we have to rewrite the url in our form using regex
+so Turn on Rewrite Engine

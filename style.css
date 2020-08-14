@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:san-serif;
+}
+.hero
+{
+    height:100%;
+    width:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(banner.jpg);
+    background-postion:center;
+    position: absolute;
+}
+.form-box
+{
+    width:380px;
+    height:480px;
+    background: #ffff;
+    position: relative;
+    margin:7% auto;
+    
+}
+.button-box
+{
+    width:180px;
+    position: relative;
+    left:55px;
+    background:#1234 ;
+}
+.toggle-btn
+{
+    position: relative;
+    left:0px;
+    width:90px;
+    height:30px;
+    margin-left:-3px;
+
+}
+.input-group
+{
+    top:180px;
+    position: absolute;
+    width:280px;
+    transition: .5s;
+}
+.input-field
+{
+    position:relative;
+    left:50 px;
+    width:100%;
+    margin :2px;
+    padding :8px;
+    border-bottom: 1px;
+    background:transparent;
+}
+#b11
+{
+    width:282px;
+    padding:10px 30px;
+    cursor: pointer;
+    display: block;
+}
+#b12
+{
+    width:282px;
+    padding:10px 30px;
+    cursor: pointer;
+    display: block;
+
+}
+span
+{
+    color:#777;
+    font-size: 12px;
+    bottom:68px;
+    position: relative;
+    top:-1px;
+    left:1px;
+}
+#login
+{
+   
+    top:60px;
+    left:0px;
+}
+#register
+{
+    top:40px;
+    left:450px;
+}
